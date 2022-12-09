@@ -157,7 +157,7 @@ The libraries used are are:
 
 	 - DIETARY_ORIGINAL
 	 	Directory containing the original Dietary dataframes, groupped by year:
-	 		- 2013-2014
+	 		- 2013-2014  
 	 			DSQTOT_H.XPT
 				DSQIDS_H.XPT
 				DR2TOT_H.XPT
