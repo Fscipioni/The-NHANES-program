@@ -11,9 +11,6 @@
 - 1.5 [Conclusions](#conclusions)
 2. [Installation and Libraries](#installation)
 3. [Files List](#files)
-4. [Data analysis results](#results)
-5. [External links](#links)
-6. [Acknowledgements](#acknowledgements)
 
 
 ## Project Description<a name = "description"></a>
