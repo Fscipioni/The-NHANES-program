@@ -136,7 +136,7 @@ The libraries used are are:
 
 - Codes
 	Directory containing the Jupyter notebooks files needed to run code, and described below
-	- 01 - NHANES_Data_cleaning.ipynb
+	- 01 - NHANES_Data_cleaning.ipynb. 
 		The Jupiter notebook with the code to clean the raw datasets.
 	- 02 - NHANES_Exploratory_Data.ipynb
 		The Jupiter notebook with the code to preprocess the cleaned DataFrames.
@@ -146,7 +146,7 @@ The libraries used are are:
 - Original Datasets
 	Directory containing the original files downloaded from the [NHANES webpage](https://www.cdc.gov/nchs/nhanes/about_nhanes.htm) in .XPT format.
 
-	- DEMOGRAPHYCS_ORIGINAL
+	- DEMOGRAPHYCS_ORIGINAL 
 	 	Directory containing the original Demographic dataframe, groupped by year: 
 	 		- 2013-2014
 	 			DEMO_H.XPT
